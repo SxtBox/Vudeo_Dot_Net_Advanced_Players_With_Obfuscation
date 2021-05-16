@@ -1,10 +1,10 @@
 # Vudeo Dot Net Advanced Players
 Vudeo Dot Net Advanced Players With or Without Obfuscation
 
-<code>https://paidcodes.albdroid.al/Players/Vudeo_dot_Net_Players/</code>
+Hosted Code: <code>https://paidcodes.albdroid.al/Players/Vudeo_dot_Net_Players/</code>
 
 
-READ FULL HERE <code>https://paidcodes.albdroid.al/Players/Vudeo_dot_Net_Players/INFO.php</code>
+Info <code>https://paidcodes.albdroid.al/Players/Vudeo_dot_Net_Players/INFO.php</code>
 
     ---------------------------------------------------------------------------------
     THIS CODE IS FOR VUDEO.NET BUT YOU CAN USE IT VERY EASY IN YOUR PROJECTS
