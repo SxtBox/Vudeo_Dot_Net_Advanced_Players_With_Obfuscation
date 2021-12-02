@@ -1,7 +1,5 @@
 # API Status
-    vudeo.net Site Was Closed
-    API ËSHTË JASHTË FUNKSIONIT
-    API IS OUT OF FUNCTION
+    vudeo.net Changed to vudeo.io
 
 # Vudeo Dot Net Advanced Players
 Vudeo Dot Net Advanced Players With or Without Obfuscation
